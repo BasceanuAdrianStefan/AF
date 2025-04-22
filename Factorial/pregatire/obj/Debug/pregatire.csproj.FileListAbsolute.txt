@@ -1,0 +1,7 @@
+C:\Users\bassu\source\repos\pregatire\pregatire\obj\Debug\pregatire.csproj.AssemblyReference.cache
+C:\Users\bassu\source\repos\pregatire\pregatire\obj\Debug\pregatire.csproj.CoreCompileInputs.cache
+C:\Users\bassu\source\repos\pregatire\pregatire\bin\Debug\Factorial.exe.config
+C:\Users\bassu\source\repos\pregatire\pregatire\bin\Debug\Factorial.exe
+C:\Users\bassu\source\repos\pregatire\pregatire\bin\Debug\Factorial.pdb
+C:\Users\bassu\source\repos\pregatire\pregatire\obj\Debug\Factorial.exe
+C:\Users\bassu\source\repos\pregatire\pregatire\obj\Debug\Factorial.pdb
