@@ -1,0 +1,9 @@
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\SortariVizual\SortariVizual\bin\Debug\SortariVizual.exe.config
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\SortariVizual\SortariVizual\bin\Debug\SortariVizual.exe
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\SortariVizual\SortariVizual\bin\Debug\SortariVizual.pdb
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\SortariVizual\SortariVizual\obj\Debug\SortariVizual.csproj.AssemblyReference.cache
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\SortariVizual\SortariVizual\obj\Debug\SortariVizual.Properties.Resources.resources
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\SortariVizual\SortariVizual\obj\Debug\SortariVizual.csproj.GenerateResource.cache
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\SortariVizual\SortariVizual\obj\Debug\SortariVizual.csproj.CoreCompileInputs.cache
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\SortariVizual\SortariVizual\obj\Debug\SortariVizual.exe
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\SortariVizual\SortariVizual\obj\Debug\SortariVizual.pdb
