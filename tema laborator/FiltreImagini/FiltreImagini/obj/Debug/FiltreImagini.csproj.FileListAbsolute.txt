@@ -1,0 +1,10 @@
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\FiltreImagini\FiltreImagini\bin\Debug\FiltreImagini.exe.config
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\FiltreImagini\FiltreImagini\bin\Debug\FiltreImagini.exe
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\FiltreImagini\FiltreImagini\bin\Debug\FiltreImagini.pdb
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\FiltreImagini\FiltreImagini\obj\Debug\FiltreImagini.csproj.AssemblyReference.cache
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\FiltreImagini\FiltreImagini\obj\Debug\FiltreImagini.Form1.resources
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\FiltreImagini\FiltreImagini\obj\Debug\FiltreImagini.Properties.Resources.resources
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\FiltreImagini\FiltreImagini\obj\Debug\FiltreImagini.csproj.GenerateResource.cache
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\FiltreImagini\FiltreImagini\obj\Debug\FiltreImagini.csproj.CoreCompileInputs.cache
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\FiltreImagini\FiltreImagini\obj\Debug\FiltreImagini.exe
+C:\Users\bassu\Desktop\Facultate_Promotia_2024_2027-main\Algoritmi Fundamentali\Algoritmi\FiltreImagini\FiltreImagini\obj\Debug\FiltreImagini.pdb
