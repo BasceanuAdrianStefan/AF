@@ -169,5 +169,39 @@ namespace FiltreImagini
             }
             pictureBox1.Image = filteredImage;
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Random r = new Random();
+
+            for (int i = 0; i < image.Width; i++)
+            {
+                for (int j = 0; j < image.Height; j++)
+                {
+                    Color pixel = image.GetPixel(i, j);
+                    int randomR = r.Next(0, 256);
+                    int randomG = r.Next(0, 256);
+                    int randomB = r.Next(0, 256);
+                    int oneofthem = r.Next(0, 5);
+                    switch (oneofthem)
+                    {
+                        case 1:
+                            filteredImage.SetPixel(i, j, Color.FromArgb(randomR, pixel.G, pixel.B));
+                            break;
+                        case 2:
+                            filteredImage.SetPixel(i, j, Color.FromArgb(pixel.R, randomG, pixel.B));
+                            break;
+                        case 3:
+                            filteredImage.SetPixel(i, j, Color.FromArgb(pixel.R, pixel.G, randomB));
+                            break;
+                        case 4:
+                            break;
+                    }
+
+                    
+                }
+            }
+            pictureBox1.Image = filteredImage;
+        }
     }
 }
