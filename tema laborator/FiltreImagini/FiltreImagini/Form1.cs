@@ -103,16 +103,31 @@ namespace FiltreImagini
 
         private void button1_Click(object sender, EventArgs e)
         {
-            for(int i = 0; i < image.Width;i++)
+           
+            float centerX = image.Width / 2f;
+            float centerY = image.Height / 2f;
+            float maxDistance = (float)Math.Sqrt(centerX * centerX + centerY * centerY);
+            for (int y = 0; y < image.Height; y++)
             {
-                for(int j = 0 ; j < image.Height;j++)
+                for (int x = 0; x < image.Width; x++)
                 {
-                    Color pi = image.GetPixel(i, j);
-                    filteredImage.SetPixel(image.Width-i-1, image.Height-j-1, pi);
+                    Color pixel = image.GetPixel(x, y);
+
+                    float dx = x - centerX;
+                    float dy = y - centerY;
+                    float distance = (float)Math.Sqrt(dx * dx + dy * dy);
+                    float vignetteFactor = 1f - (distance / maxDistance);
+                    vignetteFactor = (float)Math.Pow(vignetteFactor, 2);
+
+                    int r = (int)(pixel.R * vignetteFactor);
+                    int g = (int)(pixel.G * vignetteFactor);
+                    int b = (int)(pixel.B * vignetteFactor);
+
+                    filteredImage.SetPixel(x, y, Color.FromArgb(r, g, b));
                 }
             }
-            pictureBox1.Image = filteredImage;
 
+            pictureBox1.Image = filteredImage;
         }
         /// am rupt filtrul de izolare a canalelor in 3 :D
         private void button4_Click(object sender, EventArgs e)
