@@ -18,7 +18,7 @@ namespace Snake2
         private int gridSize = 30;
         public bool isGameOver;
         public bool boost;
-
+        public int score;
 
         public Player()
         {
@@ -29,6 +29,7 @@ namespace Snake2
                      new Point(3, 5)
                     };
             boost = false;
+            score = 0;
             isGameOver = false;
         }
 

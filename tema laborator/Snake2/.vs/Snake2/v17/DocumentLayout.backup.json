@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bassu\\source\\repos\\Snake2\\",
+  "WorkspaceRootPath": "C:\\Users\\quaie\\Desktop\\AF\\tema laborator\\Snake2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19721351-E5B1-41B3-8CCE-AF831A1E5294}|Snake2\\Snake2.csproj|C:\\Users\\bassu\\source\\repos\\Snake2\\snake2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19721351-E5B1-41B3-8CCE-AF831A1E5294}|Snake2\\Snake2.csproj|c:\\users\\quaie\\desktop\\af\\tema laborator\\snake2\\snake2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19721351-E5B1-41B3-8CCE-AF831A1E5294}|Snake2\\Snake2.csproj|solutionrelative:snake2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19721351-E5B1-41B3-8CCE-AF831A1E5294}|Snake2\\Snake2.csproj|C:\\Users\\bassu\\source\\repos\\Snake2\\snake2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19721351-E5B1-41B3-8CCE-AF831A1E5294}|Snake2\\Snake2.csproj|C:\\Users\\quaie\\Desktop\\AF\\tema laborator\\Snake2\\snake2\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19721351-E5B1-41B3-8CCE-AF831A1E5294}|Snake2\\Snake2.csproj|solutionrelative:snake2\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19721351-E5B1-41B3-8CCE-AF831A1E5294}|Snake2\\Snake2.csproj|C:\\Users\\quaie\\Desktop\\AF\\tema laborator\\Snake2\\snake2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19721351-E5B1-41B3-8CCE-AF831A1E5294}|Snake2\\Snake2.csproj|solutionrelative:snake2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19721351-E5B1-41B3-8CCE-AF831A1E5294}|Snake2\\Snake2.csproj|C:\\Users\\bassu\\source\\repos\\Snake2\\snake2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{19721351-E5B1-41B3-8CCE-AF831A1E5294}|Snake2\\Snake2.csproj|C:\\Users\\quaie\\Desktop\\AF\\tema laborator\\Snake2\\snake2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{19721351-E5B1-41B3-8CCE-AF831A1E5294}|Snake2\\Snake2.csproj|solutionrelative:snake2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19721351-E5B1-41B3-8CCE-AF831A1E5294}|Snake2\\Snake2.csproj|c:\\users\\bassu\\source\\repos\\snake2\\snake2\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19721351-E5B1-41B3-8CCE-AF831A1E5294}|Snake2\\Snake2.csproj|solutionrelative:snake2\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,48 +32,48 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\bassu\\source\\repos\\Snake2\\Snake2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\quaie\\Desktop\\AF\\tema laborator\\Snake2\\Snake2\\Form1.cs",
               "RelativeDocumentMoniker": "Snake2\\Form1.cs",
-              "ToolTip": "C:\\Users\\bassu\\source\\repos\\Snake2\\Snake2\\Form1.cs",
+              "ToolTip": "C:\\Users\\quaie\\Desktop\\AF\\tema laborator\\Snake2\\Snake2\\Form1.cs",
               "RelativeToolTip": "Snake2\\Form1.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwDsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswCoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T06:55:36.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\bassu\\source\\repos\\Snake2\\Snake2\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\quaie\\Desktop\\AF\\tema laborator\\Snake2\\Snake2\\Player.cs",
               "RelativeDocumentMoniker": "Snake2\\Player.cs",
-              "ToolTip": "C:\\Users\\bassu\\source\\repos\\Snake2\\Snake2\\Player.cs",
+              "ToolTip": "C:\\Users\\quaie\\Desktop\\AF\\tema laborator\\Snake2\\Snake2\\Player.cs",
               "RelativeToolTip": "Snake2\\Player.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwB8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T06:55:19.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Food.cs",
-              "DocumentMoniker": "C:\\Users\\bassu\\source\\repos\\Snake2\\Snake2\\Food.cs",
+              "DocumentMoniker": "C:\\Users\\quaie\\Desktop\\AF\\tema laborator\\Snake2\\Snake2\\Food.cs",
               "RelativeDocumentMoniker": "Snake2\\Food.cs",
-              "ToolTip": "C:\\Users\\bassu\\source\\repos\\Snake2\\Snake2\\Food.cs",
+              "ToolTip": "C:\\Users\\quaie\\Desktop\\AF\\tema laborator\\Snake2\\Snake2\\Food.cs",
               "RelativeToolTip": "Snake2\\Food.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T06:59:23.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\bassu\\source\\repos\\Snake2\\Snake2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\quaie\\Desktop\\AF\\tema laborator\\Snake2\\Snake2\\Form1.cs",
               "RelativeDocumentMoniker": "Snake2\\Form1.cs",
-              "ToolTip": "C:\\Users\\bassu\\source\\repos\\Snake2\\Snake2\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\quaie\\Desktop\\AF\\tema laborator\\Snake2\\Snake2\\Form1.cs [Design]",
               "RelativeToolTip": "Snake2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T06:55:06.29Z",

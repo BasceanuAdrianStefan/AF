@@ -25,6 +25,7 @@ namespace Snake2
             this.Height = 25*gridSize;
             
             
+            
             player = new Player();
             food = new Food();
             
@@ -38,7 +39,6 @@ namespace Snake2
 
         private void OnKeyDown(object sender, KeyEventArgs e)
         {
-           
             player.ChangeMovement(e.KeyCode);
            
         }
@@ -49,6 +49,8 @@ namespace Snake2
             {
                 player.Grow();
                 food.Respawn(player.Snake);
+                player.score += 10;
+                label1.Text=$"Score : {player.score.ToString()}";
             }
             if(player.boost == true)
             {
@@ -76,6 +78,11 @@ namespace Snake2
        
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
