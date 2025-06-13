@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Basceanu Adrian Stef\\Desktop\\AF\\5\\Parcurgee in adancime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EECE730-DED1-494E-B0EE-F3330261E374}|Parcurgee in adancime\\Parcurgee in adancime.csproj|c:\\users\\basceanu adrian stef\\desktop\\af\\5\\parcurgee in adancime\\parcurgee in adancime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EECE730-DED1-494E-B0EE-F3330261E374}|Parcurgee in adancime\\Parcurgee in adancime.csproj|solutionrelative:parcurgee in adancime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Basceanu Adrian Stef\\Desktop\\AF\\5\\Parcurgee in adancime\\Parcurgee in adancime\\Program.cs",
+              "RelativeDocumentMoniker": "Parcurgee in adancime\\Program.cs",
+              "ToolTip": "C:\\Users\\Basceanu Adrian Stef\\Desktop\\AF\\5\\Parcurgee in adancime\\Parcurgee in adancime\\Program.cs",
+              "RelativeToolTip": "Parcurgee in adancime\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:43:57.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

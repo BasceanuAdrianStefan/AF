@@ -1,0 +1,8 @@
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Binary Search\Binary Search\bin\Debug\Binary Search.exe.config
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Binary Search\Binary Search\bin\Debug\Binary Search.exe
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Binary Search\Binary Search\bin\Debug\Binary Search.pdb
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Binary Search\Binary Search\obj\Debug\Binary Search.csproj.AssemblyReference.cache
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Binary Search\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Binary Search\Binary Search\obj\Debug\Binary Search.exe
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Binary Search\Binary Search\obj\Debug\Binary Search.pdb
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Binary Search\Binary Search\obj\Debug\Binary Search.exe.config

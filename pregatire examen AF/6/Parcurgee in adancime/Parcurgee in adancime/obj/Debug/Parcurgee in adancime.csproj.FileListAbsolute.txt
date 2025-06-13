@@ -1,0 +1,8 @@
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Parcurgee in adancime\Parcurgee in adancime\obj\Debug\Parcurgee in adancime.csproj.AssemblyReference.cache
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Parcurgee in adancime\Parcurgee in adancime\obj\Debug\Parcurgee in adancime.csproj.CoreCompileInputs.cache
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Parcurgee in adancime\Parcurgee in adancime\bin\Debug\Parcurgee in adancime.exe.config
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Parcurgee in adancime\Parcurgee in adancime\bin\Debug\Parcurgee in adancime.exe
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Parcurgee in adancime\Parcurgee in adancime\bin\Debug\Parcurgee in adancime.pdb
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Parcurgee in adancime\Parcurgee in adancime\obj\Debug\Parcurgee in adancime.exe
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Parcurgee in adancime\Parcurgee in adancime\obj\Debug\Parcurgee in adancime.pdb
+C:\Users\Basceanu Adrian Stef\Desktop\AF\5\Parcurgee in adancime\Parcurgee in adancime\obj\Debug\Parcurgee in adancime.exe.config

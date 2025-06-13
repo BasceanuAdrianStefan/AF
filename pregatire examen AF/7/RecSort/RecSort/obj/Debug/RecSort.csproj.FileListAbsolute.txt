@@ -1,0 +1,8 @@
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\RecSort\RecSort\bin\Debug\RecSort.exe.config
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\RecSort\RecSort\bin\Debug\RecSort.exe
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\RecSort\RecSort\bin\Debug\RecSort.pdb
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\RecSort\RecSort\obj\Debug\RecSort.csproj.AssemblyReference.cache
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\RecSort\RecSort\obj\Debug\RecSort.csproj.CoreCompileInputs.cache
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\RecSort\RecSort\obj\Debug\RecSort.exe
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\RecSort\RecSort\obj\Debug\RecSort.pdb
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\RecSort\RecSort\obj\Debug\RecSort.exe.config

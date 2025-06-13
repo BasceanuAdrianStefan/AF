@@ -1,0 +1,16 @@
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\bin\Debug\net9.0-windows\rec.exe
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\bin\Debug\net9.0-windows\rec.deps.json
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\bin\Debug\net9.0-windows\rec.runtimeconfig.json
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\bin\Debug\net9.0-windows\rec.dll
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\bin\Debug\net9.0-windows\rec.pdb
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\obj\Debug\net9.0-windows\rec.Form1.resources
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\obj\Debug\net9.0-windows\rec.csproj.GenerateResource.cache
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\obj\Debug\net9.0-windows\rec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\obj\Debug\net9.0-windows\rec.AssemblyInfoInputs.cache
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\obj\Debug\net9.0-windows\rec.AssemblyInfo.cs
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\obj\Debug\net9.0-windows\rec.csproj.CoreCompileInputs.cache
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\obj\Debug\net9.0-windows\rec.dll
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\obj\Debug\net9.0-windows\refint\rec.dll
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\obj\Debug\net9.0-windows\rec.pdb
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\obj\Debug\net9.0-windows\rec.genruntimeconfig.cache
+C:\Users\Basceanu Adrian Stef\Desktop\AF\7\rec\rec\obj\Debug\net9.0-windows\ref\rec.dll
